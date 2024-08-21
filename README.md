@@ -40,7 +40,7 @@ You can access the live demo of the Task Manager App [here](https://66001dbe79c7
 - **Frontend:**
   - React.js
   - React Router
-  - Redux Toolkit for state management
+  - Redux for state management
   - Axios for making HTTP requests
   - React Icons for icons
 
@@ -48,5 +48,5 @@ You can access the live demo of the Task Manager App [here](https://66001dbe79c7
   - Node.js
   - Express.js
   - MongoDB for database
-  - Mongoose ODM for MongoDB
+  - Mongoose 
   - JSON Web Tokens (JWT) for authentication
