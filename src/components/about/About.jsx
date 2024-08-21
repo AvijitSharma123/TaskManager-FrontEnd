@@ -8,14 +8,14 @@ const About = () => {
           <h1>About Us</h1>
         </div>
 
-        <p>
+        <p style={{textAlign:"center" }}>
           Welcome to Task Manager, your ultimate solution for efficient task management.
           We understand the importance of staying organized and productive, which is why
-            we've created a platform designed to streamline your workflow and enhance productivity.<br/>
+          we've created a platform designed to streamline your workflow and enhance productivity.<br/>
 
           With Task Manager, you can easily prioritize tasks, set deadlines, and track progress—all
           in one convenient location. Say goodbye to scattered to-do lists and missed deadlines,
-            and hello to a more organized and efficient way of managing your tasks.<br/>
+          and hello to a more organized and efficient way of managing your tasks.<br/>
 
           Our user-friendly interface and intuitive features make it easy to stay on top of your 
           tasks and projects. Whether you're a busy professional, a student juggling multiple 
